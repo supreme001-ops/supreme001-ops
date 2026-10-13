@@ -32,6 +32,16 @@ My goal is to keep improving my skills, create interesting things, and share wha
 - Small games and interactive applications
 - Science and electronics experiments
 
----
 
 **Keep learning. Keep creating. Never stop exploring!**
+
+
+### Technologies & Tools
+
+I'm exploring programming and electronics,
+and learning how to build my own projects.
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
