@@ -1,6 +1,4 @@
 ![Jhonatan Banner](./banner-jhonatan.png)
-
-# Hi there! I'm Jhonatan 👋
 # Hi there! I'm Jhonatan 👋
 
 ### Welcome to my GitHub!
